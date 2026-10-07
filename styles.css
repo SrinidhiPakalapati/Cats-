@@ -13,4 +13,22 @@ body {
     text-align: center;
     background-color: #523D2D;
     border-radius: 8px;
+    margin: 10px;
+    padding: 2px;
+}
+
+.def {
+    background-color:#523D2D;
+    border-radius: 8px;
+    margin:10px;
+    padding: 3px;
+}
+.disclamer {
+    text-align: center;
+}
+.history{
+    background-color:#523D2D;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 3px;
 }
