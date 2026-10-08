@@ -1,0 +1,2 @@
+# About myself
+Hi! I am Srinidhi from India, a part of Hack Club. I loved coding since my childhood and Hack Club is the best as of I know. I have made this project for Hack Club Athena's (Snowglobe)[snowglobe.hackclub.com].
