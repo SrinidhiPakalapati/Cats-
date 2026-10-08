@@ -53,3 +53,19 @@ body {
 .fun-facts h2{
     text-align: center;
 }
+.gallary {
+    background-color: #523D2D;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 3px;
+}
+.container {
+    display:flex;
+    flex-wrap: wrap; 
+    gap:18px;
+}
+.container img{
+    height: 250px;
+    width: 250;
+    border-radius: 10px;
+}
